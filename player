@@ -1,0 +1,25 @@
+public class Player {
+    public static int ACCOUNT = 1500;   // money at beginning is 1500
+
+
+    public Player(String name, int x, int y) {  // tên người chơi á
+        this.name = name;
+        this.x = x;
+        this.y = y;
+    }
+
+    public void status() {  // ở tù hay tự do
+        if ( = 1) {
+            System.out.println("you're in jail");  // tạm thời toi để ô đó có giá trị 1, có gì chỉnh sửa lại vì chủ yếu ghi khu này cho nhớ status thoi
+            else
+            System.out.println("you're free");
+              }  
+            }
+        }
+            
+    class OWNER_STATUS extends player {    // class tình trạng thằng chủ sở hữu đc nhà nào rồi á, cần tạo thêm 1 class riêng về nó 
+
+       @override
+
+
+    }
